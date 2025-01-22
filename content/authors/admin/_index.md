@@ -49,6 +49,7 @@ education:
       - CS 6365 Intro Enterprise Comput.
       - CS 6476 Computer Vision 
       - CS 6515 Graduate Algorithms
+      - CS 6601 Artificial Intelligence
       - CS 7641 Machine Learning
 
   - area: B.S in Computer Science & B.S in Mathematics
@@ -69,19 +70,19 @@ work:
     company_name: Alibaba Cloud
     company_url: 'https://www.alibabacloud.com'
     company_logo: ''
-    date_start: 2024-08-01
-    date_end: ''
+    date_start: 2024-07-01
+    date_end: 2024-09-01
     summary: |2-
       Responsibilities include:
       - Retrieval-Augmented Generation (RAG)
       - Kata Container
       - alert system
-  - position: Machine Learning Engineer
+  - position: Machine Learning Engineer Internship
     company_name: Xiaomi Inc.
     company_url: 'https://www.xiaomiev.com/su7'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-04-01
+    date_end: 2024-07-01
     summary: |
       Responsibilities include:
       - Differentiable Joint Conditional Prediction Cost Evaluation Tree Policy Planning model

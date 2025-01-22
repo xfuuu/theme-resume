@@ -1,6 +1,7 @@
 {
   "htmlElements": {
     "tags": [
+      "?xml",
       "a",
       "article",
       "body",
@@ -24,6 +25,7 @@
       "ol",
       "p",
       "path",
+      "polygon",
       "radialgradient",
       "rb",
       "rt",
@@ -177,6 +179,7 @@
       "skills-wrapper",
       "sm:h-64",
       "sm:px-0",
+      "st0",
       "text-1xl",
       "text-2xl",
       "text-3xl",
@@ -207,6 +210,7 @@
       "z-10"
     ],
     "ids": [
+      "_x32_",
       "deviconLinux0",
       "deviconLinux1",
       "deviconLinux2",
